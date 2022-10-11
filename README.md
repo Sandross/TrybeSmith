@@ -52,7 +52,7 @@ Também é bom ter um editor para trabalhar com o código como [VSCode](https://
 _1- Clonar o repositorio_
 
 ```jsx
-git clone git@github.com:TonyyCruz/trybesmith.git
+git clone git@github.com:Sandross/trybesmith.git
 ```
 
 ---
@@ -131,12 +131,4 @@ npm install
 </details>
 
 ---
-
-<details>
-  <summary><strong>🎲 Diagrama Entidade Relacionamento do projeto</strong></summary><br />
-
-  O banco de dados do projeto segue a estrutura abaixo:
-
-  <img src="diagram-der.png" width="200px" >
-</details>
 
